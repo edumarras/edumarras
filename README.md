@@ -10,6 +10,10 @@ Além da IA, exploro diversos campos da computação, do desenvolvimento web ao 
 
 Estou sempre em busca de desafios que me permitam criar soluções inovadoras, seja desenvolvendo sistemas inteligentes para a área médica ou explorando novas fronteiras na interseção entre tecnologia e negócios.
 
+### Entre em Contato
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m4rr45.eduardo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-marras)
+
 ### 💫 Stack de Desenvolvimento
 
 #### 🎯 Client-side
