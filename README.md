@@ -11,4 +11,4 @@ Além da IA, exploro diversos campos da computação, do desenvolvimento web ao 
 Estou sempre em busca de desafios que me permitam criar soluções inovadoras, seja desenvolvendo sistemas inteligentes para a área médica ou explorando novas fronteiras na interseção entre tecnologia e negócios.
 
 🌐 Frontend
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white.
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
