@@ -1,7 +1,3 @@
-# 🤖 Eduardo Marras 
-
-**'Graduando em Engenharia de Computação | Pesquisador em IA e Visão Computacional'**
-
 # 🚀 Sobre mim
 
 Mestrando em Ciência da Computação na Universidade Estadual de Campinas (UNICAMP), com foco em Inteligência Artificial Multimodal aplicada à saúde, investigando métodos de aprendizado profundo para integração de dados heterogêneos em suporte à decisão clínica.
