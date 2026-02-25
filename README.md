@@ -4,11 +4,11 @@
 
 # 🚀 Sobre mim
 
-Sou graduando em Engenharia de Computação pela PUC-Campinas, com pós-graduação em andamento em Arquitetura de Software, Ciência de Dados e Cybersecurity. Minha paixão pela tecnologia se manifesta através do desenvolvimento de projetos inovadores em visão computacional e deep learning, com destaque para aplicações na área médica. Atualmente, sou pesquisador bolsista Google desenvolvendo um classificador de imagens oftalmológicas baseado em redes neurais para diagnóstico automatizado de glaucoma.
+Mestrando em Ciência da Computação na Universidade Estadual de Campinas (UNICAMP), com foco em Inteligência Artificial Multimodal aplicada à saúde, investigando métodos de aprendizado profundo para integração de dados heterogêneos em suporte à decisão clínica.
 
-Além da IA, exploro diversos campos da computação, do desenvolvimento web ao baixo nível. Possuo formação complementar em Comércio Exterior pelo SENAC e uma atualização em 'E-Commerce e Modelo de Negócios Digitais' pela FGV, unindo meu interesse por tecnologia com uma visão estratégica de negócios e mercado digital.
+Graduado em Engenharia de Computação pela Pontifícia Universidade Católica de Campinas (PUC-Campinas), com atuação em pesquisa científica financiada por fomento institucional da Google/FUNDASP. Possui pós-graduação em Arquitetura de Software, Ciência de Dados e Cybersecurity, com extensão em Inteligência Artificial.
 
-Estou sempre em busca de desafios que me permitam criar soluções inovadoras, seja desenvolvendo sistemas inteligentes para a área médica ou explorando novas fronteiras na interseção entre tecnologia e negócios.
+Desenvolve pesquisa em Deep Learning, com ênfase em arquiteturas neurais, mecanismos de atenção, validação experimental e análise estatística de modelos. Possui experiência no desenvolvimento de pipelines completos de pesquisa em IA.
 
 ### Entre em Contato
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m4rr45.eduardo@gmail.com)
